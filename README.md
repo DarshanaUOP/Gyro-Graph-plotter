@@ -9,5 +9,5 @@ MPU6050 data reader java program which is created using java swing GUI component
 
 
 The figure bellow is showing the UI of the system <br>
-<img src = "UI.JPG" height = 390 >
+<img src = "UI.JPG" width = 100% >
 and you can costomize functions of this project as you wish
